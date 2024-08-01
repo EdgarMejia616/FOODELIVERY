@@ -6,10 +6,10 @@ header("Access-Control-Max-Age: 3600");
 header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With");
 
 // Configuración de la base de datos
-$host = '13.49.46.209';
-$db = 'fooddeliveryapp'; // Cambia 'fooddeliveryapp' por el nombre de tu base de datos
-$user = 'admin';
-$pass = 'qw458ewedw';
+$host = 'bdrmuc7nwru4djyosxc3-mysql.services.clever-cloud.com';
+$db = 'bdrmuc7nwru4djyosxc3'; // Cambia 'fooddeliveryapp' por el nombre de tu base de datos
+$user = 'uggi18cilhguph0f';
+$pass = 'MUjXO1ckWTPG4wJyH2XZ';
 
 try {
     // Conectar a la base de datos
