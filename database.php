@@ -2,10 +2,10 @@
 
 class DataBase
 {
-    private $host = "13.49.46.209";
-    private $database = "fooddeliveryapp";
-    private $username = "admin";
-    private $password = "qw458ewedw";
+    private $host = "bdrmuc7nwru4djyosxc3-mysql.services.clever-cloud.com";
+    private $database = "bdrmuc7nwru4djyosxc3";
+    private $username = "uggi18cilhguph0f";
+    private $password = "MUjXO1ckWTPG4wJyH2XZ";
 
     public $conexion;
 
